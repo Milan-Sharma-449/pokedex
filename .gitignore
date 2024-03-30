@@ -6,7 +6,8 @@
 /.pnp
 .pnp.js
 
-
+/src/assets/sprites-master
+/src/assets/sprites-master/
 
 # testing
 /coverage
